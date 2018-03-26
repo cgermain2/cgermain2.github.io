@@ -1,0 +1,13 @@
+_site/
+.sass-cache/
+.jekyll-metadata
+
+# PyCharm, Eclipse...
+.idea/
+.project
+
+# Ruby Gems
+Gemfile.lock
+
+#MacStuff
+.DS_Store
